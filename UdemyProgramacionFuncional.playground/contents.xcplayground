@@ -4,5 +4,6 @@
         <page name='1_FuncionesDePrimeraClase'/>
         <page name='2_FuncionesComoParametros'/>
         <page name='3_FuncionesPuras'/>
+        <page name='3_2_FuncionesAnidadas'/>
     </pages>
 </playground>
