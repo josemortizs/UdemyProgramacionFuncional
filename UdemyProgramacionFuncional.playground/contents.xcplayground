@@ -5,5 +5,8 @@
         <page name='2_FuncionesComoParametros'/>
         <page name='3_FuncionesPuras'/>
         <page name='3_2_FuncionesAnidadas'/>
+        <page name='3_3_FuncionesParcializadas'/>
+        <page name='3_4_Recursividad'/>
+        <page name='3_5_ArbolesBinarios'/>
     </pages>
 </playground>
