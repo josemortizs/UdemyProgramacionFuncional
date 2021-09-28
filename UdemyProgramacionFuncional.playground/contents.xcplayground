@@ -8,5 +8,6 @@
         <page name='3_3_FuncionesParcializadas'/>
         <page name='3_4_Recursividad'/>
         <page name='3_5_ArbolesBinarios'/>
+        <page name='3_6_FuncionesQueEscapan'/>
     </pages>
 </playground>
