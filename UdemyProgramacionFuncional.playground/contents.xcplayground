@@ -9,5 +9,7 @@
         <page name='3_4_Recursividad'/>
         <page name='3_5_ArbolesBinarios'/>
         <page name='3_6_FuncionesQueEscapan'/>
+        <page name='3_7_Memorización'/>
+        <page name='4_1_Map'/>
     </pages>
 </playground>
