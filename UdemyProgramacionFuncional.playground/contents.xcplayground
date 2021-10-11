@@ -11,5 +11,6 @@
         <page name='3_6_FuncionesQueEscapan'/>
         <page name='3_7_Memorización'/>
         <page name='4_1_Map'/>
+        <page name='4_2_Filter'/>
     </pages>
 </playground>
