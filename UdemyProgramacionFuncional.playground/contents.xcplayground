@@ -9,10 +9,13 @@
         <page name='3_4_Recursividad'/>
         <page name='3_5_ArbolesBinarios'/>
         <page name='3_6_FuncionesQueEscapan'/>
-        <page name='3_7_Memorización'/>
         <page name='4_1_Map'/>
         <page name='4_2_Filter'/>
         <page name='4_3_Reduce'/>
         <page name='4_4_AllSatisfy'/>
+        <page name='4_5_CompactMapyContains'/>
+        <page name='4_6_DropYPrefix'/>
+        <page name='3_7_Memorización'/>
+        <page name='4_7_FirstYLast'/>
     </pages>
 </playground>
