@@ -15,7 +15,10 @@
         <page name='4_4_AllSatisfy'/>
         <page name='4_5_CompactMapyContains'/>
         <page name='4_6_DropYPrefix'/>
-        <page name='3_7_Memorización'/>
         <page name='4_7_FirstYLast'/>
+        <page name='4_9_FirstAndLastIndex'/>
+        <page name='4_10_flatMap'/>
+        <page name='3_7_Memorización'/>
+        <page name='4_11_forEach'/>
     </pages>
 </playground>
