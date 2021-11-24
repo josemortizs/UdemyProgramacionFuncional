@@ -18,7 +18,10 @@
         <page name='4_7_FirstYLast'/>
         <page name='4_9_FirstAndLastIndex'/>
         <page name='4_10_flatMap'/>
-        <page name='3_7_Memorización'/>
         <page name='4_11_forEach'/>
+        <page name='4_12_Sorted'/>
+        <page name='4_13_RemoveAll'/>
+        <page name='3_7_Memorización'/>
+        <page name='4_14_InterfacesFluidas'/>
     </pages>
 </playground>
