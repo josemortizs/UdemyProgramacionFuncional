@@ -21,7 +21,14 @@
         <page name='4_11_forEach'/>
         <page name='4_12_Sorted'/>
         <page name='4_13_RemoveAll'/>
-        <page name='3_7_Memorización'/>
         <page name='4_14_InterfacesFluidas'/>
+        <page name='6_5_Genericos'/>
+        <page name='6_6_GenericosLllamadaRed'/>
+        <page name='6_7_GenericosCondicionales'/>
+        <page name='6_8_ComposicionDeFunciones'/>
+        <page name='6_9_MemorizacionAutomatica'/>
+        <page name='7_1_EmpaquetadoresPropiedades'/>
+        <page name='3_7_Memorización'/>
+        <page name='7_2_ConstructoresDeResultadosBásicos'/>
     </pages>
 </playground>
